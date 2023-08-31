@@ -1,0 +1,4 @@
+name: playeranti
+version: '${project.version}'
+main: com.naka.playeranti.Playeranti
+api-version: '1.20'
